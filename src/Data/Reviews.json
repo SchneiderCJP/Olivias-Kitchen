@@ -1,0 +1,33 @@
+[
+    {
+        "image": "/images/chelseaImage.jpg",
+        "name": "Chelsea D.",
+        "review": "Olivia's Kitchen has transformed our mealtime routine! The recipes are easy to follow, and the ingredients are always fresh. It's so convenient to have everything delivered to our door. My family loves the variety and the delicious flavors!"
+
+    },
+    {
+        "image": "/images/ravenImage.jpg",
+        "name": "Raven B.",
+        "review": "I've tried several meal kit services, and Olivia's Kitchen is by far the best. The meals are consistently tasty and nutritious. I love the flexibility of choosing my delivery schedule, and the customer service is top-notch."
+
+    },
+    {
+        "image": "../images/coreyImage.jpg",
+        "name": "Corey B.",
+        "review": "As a busy professional, Olivia's Kitchen has been a lifesaver. I no longer have to stress about meal planning or grocery shopping. The meals are quick to prepare and absolutely delicious. Highly recommend!"
+
+    },
+    {
+        "image": "../images/tanyaImage.jpg",
+        "name": "Tanya L.",
+        "review": "Olivia's Kitchen offers a fantastic selection of meals that cater to my dietary needs. The quality of the ingredients is excellent, and I appreciate the clear, easy-to-follow recipes. It's a great value for the price."
+
+    },
+    {
+        "image": "../images/muffyImage.jpg",
+        "name": "Muffy P.",
+        "review": "Since subscribing to Olivia's Kitchen, mealtime has become a highlight of my day. The variety of meals keeps things exciting, and the flavors are amazing. The fast deliveries and eco-friendly packaging are added bonuses. Love it!"
+
+    }
+    
+]

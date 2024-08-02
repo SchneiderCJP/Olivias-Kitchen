@@ -1,0 +1,12 @@
+/*Universal Variables to use throughout the site*/
+
+:root {
+    /*Universal Colors*/
+    --color-bg: #f9ffe4;
+    --color-text: white;
+    --color-primary: #859F27;
+    --color-secondary: white;
+    --color-dark: #575f16;
+    /*Universal fonts*/
+    --font: "Playfair Display", sans-serif !important;
+}
