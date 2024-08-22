@@ -58,7 +58,7 @@ To view or modify this project locally, follow these steps:
 
 ## Video of Project
 
-https://github.com/user-attachments/assets/7d7bde78-4c56-4413-9786-f72818bbeb05
+https://github.com/user-attachments/assets/18019273-3b85-4dfc-b117-db6f7175d8fa
 
 ## Project Images (Web View)
 
